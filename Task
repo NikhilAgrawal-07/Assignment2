@@ -1,0 +1,2 @@
+Get the input String from user and parse it to integer, if it is not a number it will throw Number Format Exception.
+Catch it and print "Entered input is not a valid format for an integer." or else print the square of that number.
